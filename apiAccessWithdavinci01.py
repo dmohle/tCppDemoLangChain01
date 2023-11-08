@@ -44,7 +44,7 @@ from langchain.chains import ConversationalRetrievalChain
 from langchain.document_loaders import TextLoader
 loader = TextLoader("notes06nov23.txt")
 documents = loader.load()
-text_splitter = CharacterTextSplitter(chunk_size=1000, chunk_overlap=0)
+text_splitter = CharacterTextSplitter(chunk_size=2400, chunk_overlap=0)
 documents = text_splitter.split_documents(documents)
 
 embeddings = OpenAIEmbeddings()
@@ -55,7 +55,7 @@ memory = ConversationBufferMemory(memory_key="chat_history", return_messages=Tru
 
 qa = ConversationalRetrievalChain.from_llm(OpenAI(temperature=0.4), vectorstore.as_retriever(), memory=memory)
 
-query = "The time is now 06:36, will I be late? When is my appointment? Will my cat be ok?"
+query = "Is Hutson a good student? How is he doing in the class?"
 result = qa({"question": query})
 
 print("\n\n")
