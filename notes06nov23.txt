@@ -1,0 +1,75 @@
+Today is November 7, 2023
+My name is Dennis Mohle
+I am a hacker in Fresno California
+And I also teach a class on hacking with C++ at Fresno City College
+And I work on hacking AI LLM so that I can use their abilities to make people happy
+I have two dogs and a cat
+It is not raining right now
+I would not like to go outside because I will get wet
+I have C++ class at 10:00 AM tomorrow
+I must wake up at 06:00 to start my day
+I must make my bed, then shower, and shave, and make coffee
+Then weigh in
+I weigh 185 pounds today
+
+Here are my C++ students who you will walkabout during the demo:
+
+Anuraj Gill (aka Raj) - Raj leads a team of two C++ programmers, Michael Sandoval and Bryan Pineda. They work on hacking a gaming site in class sometimes when they get bored. Raj is a tech leader in his CIT-15 class and helps his classmates all the time. He has a wife and two kids and makes a lot of money programming game hacks for people. His is Raj’s bio: What I like to be called in class is Anuraj or Raj, it up to you. I was born in Clovis, and I was raised in Fresno all my life. To pronouns my name it sounded like Anu-raj. My pronouns are He/Him, and that what I would like to be called in class and general. What computer programming class I took before was a coding class in high school, which was just on Code.Org. It wasn't really that helpful, so hopefully I will learn more in this class. The computer I will be using for this class is a gaming PC which I build in quarantine. My major is Computer Information Technology, and one of my goals is to learn the basics of C++. Another one of my goal is to get an A in this class, so I can be the best I can be. I will also want to be able to do C++ by myself and be able to teach another in the near future or so. My final goal is to listen to the teacher, and be in class everyday, this is because I want to pace myself by waking up on time, and being in class on time. 
+
+Michael Sandoval - Michael knows his way around C++ and programs game hacks with Raj and Bryan. He understand complex computer environments and web front ends. He has one cat and a dog at home and gets along well with people as well as animals. Here is his bio: My name is Michael I was born in fresno and raised here and I’ve never moved locations. You pronounce it like mai·kl. My pronouns are He/him. I haven’t taken any programming class besides intro to tech in freshman year of highschool which just taught css on code.org. I will be using my personal desktop at home that I made a few years ago. My goals for CIT-66 this semester is I would like to be able to properly use and understand c++. Im not fully sure on my major yet but I would like to go into cyber security in the future I also am very interesting in anything that has to do with computers so this class in general just looked very fun for me to take and worth the time. Another one of my goals is to get an A in this class as I do not want to fail my first class of the school year.
+
+ Tony Dias - a quiet hacker from Russia who is learning English in the US as he helps his classmates learn C++ programming. He is an expert Discord chatbot maker and learned his trade in the bot factories south of Moscow. Here is Tony’s bio: Hello, I like to be called Tony my pronouns are he him. The other classes I've taken before this was intro into programing which gave me some idea of if I want to continue with computers in my future and I enjoyed doing that class it was cool learning programing we used python programing mostly through out the semester and basically had fun giving codes to make the computer and outcome we programed when you put a input for example we programed a coldest temperature ever recorded by country and you would type in Russia and it would give a output of the coldest temperature recorded for that area specially typed in the input. The laptop I will be using is a HP Pavilion 2021 I believe I don't really remember the year I got it specifically but I believe it was 2021. My goal for this class is to see if I'm going to continue with my major in computer science I haven't really decided yet meanwhile, I am almost done with my General ed then I have to choose a majors . I most likely will do computers as my major and hope to have fun this semester and continue having a good year.  
+
+Christopher Campbell (aka Chris) grew up with a silver spoon in his mouth, but rejected his trust fund to work on programming logistical systems. He help people in his native American tribe by teaching computer literacy and is considering cyber security as a profession. He is Chris’s bio: My name is Christopher but I go by Chris by most people other than my brat sister whom calls me Christopher just to bug me.
+My pronouns would be He/Him
+For class I will be using my personal laptop Mac Book Air
+This semester I will be hoping to really learn everything that I can as programming and coding is very important for my major and the possibility I might go into Cyber Security as a profession. 
+I am here in this class because I enjoy tech and want to learn everything I can in the business because s I'm getting older manual labor isn't for me anymore. I have hopes in the future to bring these skills to use by helping tribal youth learn more about tech and show them what a future in tech could be like.
+Angelo Apodaca is a gifted programmer who is quickly bored by fools. He works with Jose and Miguel on class projects and is very active in the Veterans community on campus.
+John Rodriguez is a a natural programmer who quickly picked up C++ and Java programming and now knows object-oriented programming. His final project is an AI Chat bot that can predict winning football games. Here is his bio - While John is my name I never liked how formal it sounded, as far back as I can remember I have always preferred Johnny over john. it took a while for me to get used to being called john in school then as I got older as formal as "John" sounds it's not as bad as I once considered it.4
+my pro nouns are simply he/him.
+I have taken CIT-15 and CIT-40
+I will be using my personal computer which is a Samsung Pro Book 360
+my goal for this semester is to really soak in everything I can transfer that knowledge actual work. last semester was hectic for me, I had so much going on so I kind of skated by and feel like I didn't gain much from the classes considered how much focus was being taken away by different things in my life at the time. Not only do I need this for my major, but this is also something I really want to learn as much as possible and be able to put it to work outside of school. Collapse Subdiscussion
+Bryan Pineda
+Bryan Pineda
+
+Hi, 
+I am Bryan and I am from Firebaugh, California. People usually like to call me by my first name, which you pronounce it as Bry-an. My pronouns are He/Him. I have never taken a programming class before, and I am deeply excited to learn about the basics of C++.  A computer that I will be using for this class will my Victus HP Laptop. With this laptop and classroom, I hope can achieve some of these goals for CIT-66 for this semester. I hope to learn about making simple algorithms like bubble sort and basic calculators that deal with numerical operators. The reason why I want to understand these things is because I am majoring in a math demanding degree, and sometimes, it is tedious to write an equation hundreds of times. Also, a final goal that I also want to achieve is to excel in this class. I am taking this class because it is required by my major transfer agreement and I am also taking it because I want to traverse into the world of coding. I believe understanding it will help me obtain a job more easily as it is extremely demanding in some specific fields. Overall, I am excited to participate in this class and learn numerous things.
+
+Aug 13, 2023
+Aug 13 at 12:16pm
+Manage Discussion Entry
+
+Hi John,
+I understand what you are saying in your name sounding too formal. I also had a friend named John and he preferred the Johnny instead of his actual name. Either way, I enjoyed your presence in class and I hope we can continue working in labs and getting code done!
+
+
+Miguel Gomez: 
+Howdy Everyone, my name is Miguel Gomez (pronounced Mee-Gehl), born and raised in Fresno all my life. I view myself as a cisgender male so my pronouns are he/him/his. The only computer class I have taken is AT-10 or Tech Computer app with Tammy Camacho; the class taught me how to make presentations on PowerPoint, formatting excel sheets and writing papers on word. I’m hoping to use a MacBook Pro (2015) to code this semester, though a little hiccup occurred running code blocks. All else fails, I will try to find a computer on offer up that can handle it. My goals besides learning the material, I want to obtain a job in the computer field and understand the concept of coding C++. My thought is that by obtaining a associates degree in computer information systems, I would stand out or fill in the basic requirements when applying in the workforce. Personally, I wanted to learn coding as technology is always advancing with new programs and have always been drawn to electronic devices. Figure with these two traits and some curiosity, coding should either be a fun experience or it will make me question the path I am on. Hoping the former of the two happens and let’s do our best this semester.
+
+Collapse Subdiscussion
+Benjamin Scoggins
+Benjamin Scoggins
+Aug 13, 2023
+Aug 13 at 4:58pm
+Manage Discussion Entry
+
+My name is Benjamin Scoggins, and I prefer to be called Ben. My pronouns are he/him. I've taken a few computer classes on the office suite, R, A+, etc. For this class, I will be using my HP Pavilion that has been expertly disguised as a Macbook through the use of an Apple sticker. I'm mainly taking this class as a part of my major, but also partly for fun. I chose C++ because there are a few platforms with C++ only toolchains that I would like to develop for as a part of my hobby. It's also just a useful one to know for a lot of other reasons.
+
+Hutson Horton
+Hutson Horton
+Aug 13, 2023
+Aug 13 at 5:07pm
+Manage Discussion Entry
+
+My name is Hutson Horton, first name pronounced Hut-sin. My preferred pronouns are he/him. This will be my first programming class, but I have taken many troubleshooting and security classes such as the A+ course, Wireless Security, Operating Systems, etc. I will be using a Windows 11 desktop computer that I built myself while not in the computer lab and porting labs with a flash drive when necessary. My goal for CIT-66 is to learn if I would enjoy programming. I can see myself in this field of work, but I wasn't sure if it was the right for me. The first few programs that we have done were fun and intuitive to create, so it may be worth a shot to pursue this as a career.  I would also like to learn more about how computers work, and while I have a general idea, learning how they take instructions and translate them into actions couldn't hurt. Let's have a good semester!
+
+Joseph Rentfrow - Lab partner of Hutson. Sis in the back of the room and helps out when the class gets stuck. He owns a computer repair shop that is a front for AI LLM hacking with C++ and Python.
+
+Jose Martinez: 
+
+Better late than never... Hello everyone, my name is Jose Martinez. I like to go by Alex instead of Jose because I have 3 other brothers with the same name. My pronouns are He/Him. This is the very first CS class I'll be taking. I was admitted into a CS program with Google called CSSI and I was exposed to coding languages like CSS, HTML, JavaScript, and C++. Then there was also an introductory summer program for python. I still have notes from both of those programs and do go back to them. Sometimes I question how I understood anything that was going on. But there are times where I do recognize a lot of the stuff that was gone over. As for what computer I will be using, it'll be a M2 Macbook Air. I'll probably have issues downloading some of the things that are necessary for this class. How so? Well, Apple is constantly hardening their install packages. My goal is to familiarize myself with not only the terminology, but end up being comfortable writing code using C++. Another part of me is taking this course is so that I have a higher chance of getting an internship. I would create a youtube video, but I just don't have the time to do so. I work every other day and have classes. Don't hesitate to have a conversation with me. I'm an open book. 
+
+
+
